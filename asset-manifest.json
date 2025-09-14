@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FatmaRubaei/eparts_individuals_form/static/css/main.f855e6bc.css",
-    "main.js": "/FatmaRubaei/eparts_individuals_form/static/js/main.336bbc44.js",
-    "static/js/453.81ad33d4.chunk.js": "/FatmaRubaei/eparts_individuals_form/static/js/453.81ad33d4.chunk.js",
-    "static/media/logo.svg": "/FatmaRubaei/eparts_individuals_form/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/FatmaRubaei/eparts_individuals_form/index.html",
-    "main.f855e6bc.css.map": "/FatmaRubaei/eparts_individuals_form/static/css/main.f855e6bc.css.map",
-    "main.336bbc44.js.map": "/FatmaRubaei/eparts_individuals_form/static/js/main.336bbc44.js.map",
-    "453.81ad33d4.chunk.js.map": "/FatmaRubaei/eparts_individuals_form/static/js/453.81ad33d4.chunk.js.map"
+    "main.css": "/FatmaRubaei/eparts_individuals_form/main/static/css/main.f855e6bc.css",
+    "main.js": "/FatmaRubaei/eparts_individuals_form/main/static/js/main.8cf27e26.js",
+    "static/js/453.81ad33d4.chunk.js": "/FatmaRubaei/eparts_individuals_form/main/static/js/453.81ad33d4.chunk.js",
+    "static/media/logo.svg": "/FatmaRubaei/eparts_individuals_form/main/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FatmaRubaei/eparts_individuals_form/main/index.html",
+    "main.f855e6bc.css.map": "/FatmaRubaei/eparts_individuals_form/main/static/css/main.f855e6bc.css.map",
+    "main.8cf27e26.js.map": "/FatmaRubaei/eparts_individuals_form/main/static/js/main.8cf27e26.js.map",
+    "453.81ad33d4.chunk.js.map": "/FatmaRubaei/eparts_individuals_form/main/static/js/453.81ad33d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.336bbc44.js"
+    "static/js/main.8cf27e26.js"
   ]
 }
